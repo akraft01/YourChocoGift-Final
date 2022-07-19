@@ -1,0 +1,89 @@
+{
+  "Header": {
+    "title": "Customize your chocolate giftbox",
+    "paragraph": "YourChocoGift chocolate gift customization company."
+  },
+  "About": {
+    "paragraph": "Some text about who we are and what we do. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+    "Why": [
+      "Some text about why we choose some brands and the story behind it.",
+      "Tempor incididunt Lorem ipsum dolor sit amet, consectetur adipisc.",
+      "Lorem ipsum dolor Lorem enim ad minim veniam consectetur."
+      
+    ],
+    "Why2": [
+      "Aliquip ex ea commodoUt enim ad minim veniam, quis nostrud exer.",
+      "Lorem ipsum dolor dolor sit amet, consectetur adipisc.",
+      "Exercitation ullamco ea commodoUt enim ad minim veniam."
+    ]
+  },
+  
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Jeri Rowland"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Marion Wolf"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Francis Davenport"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Gary Martinez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Willie Horne"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Melody Camacho"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg"
+    }
+  ],
+  "Contact": {
+    "address": "5555 King Edward Ave. Ottawa ON Canada K1N 1N1 ",
+    "phone": "+1(111)111-1111",
+    "email": "YourChocoGift@gmail.ca",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "instagram": "instagram.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-copyright",
+      "title": "Brand 1",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-birthday-cake",
+      "title": "Brand 2",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-cube",
+      "title": "Brand 3",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Brand 4",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
